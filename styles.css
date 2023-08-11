@@ -1,3 +1,13 @@
 img {
-    border: 5px solid #55;
+    border: 5px solid #c9ada7;
+}
+
+ul {
+    border-radius: 25px;
+    background-color: #f2e9e4;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
 }
