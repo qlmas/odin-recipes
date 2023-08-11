@@ -12,3 +12,11 @@ a {
     margin-right: auto;
     width: 50%;
 }
+
+#rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #c9ada7;
+    padding: 20px; 
+    background-color: #f2e9e4;
+  }
+  
